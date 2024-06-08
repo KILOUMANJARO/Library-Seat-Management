@@ -1,0 +1,17 @@
+release/login.o
+release/main.o
+release/mainwindow.o
+release/mydb.o
+release/book.o
+release/cancel.o
+release/plotting.o
+release/qcustomplot.o
+release/reg.o
+release/qrc_resource.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_book.o
+release/moc_cancel.o
+release/moc_plotting.o
+release/moc_qcustomplot.o
+release/moc_reg.o
