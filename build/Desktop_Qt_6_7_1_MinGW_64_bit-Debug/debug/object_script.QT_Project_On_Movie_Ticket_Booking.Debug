@@ -1,0 +1,17 @@
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/mydb.o
+debug/book.o
+debug/cancel.o
+debug/plotting.o
+debug/qcustomplot.o
+debug/reg.o
+debug/qrc_resource.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_book.o
+debug/moc_cancel.o
+debug/moc_plotting.o
+debug/moc_qcustomplot.o
+debug/moc_reg.o
